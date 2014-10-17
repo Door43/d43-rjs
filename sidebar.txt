@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rjs:home|Door43 (rjs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rjs|d43-rjs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rjs/archive/master.zip|d43-rjs.zip]]
+
+**Recent Changes**
+{{changes>ns = rjs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rjs|Ethnologue data]]
+
